@@ -15,7 +15,7 @@
         <button class="button">Click Me</button>
     </main>
     <footer>
-        <p>© 2025 My Website</p>
+        <p>© 2026 My Website</p>
     </footer>
 </body>
 </html>
